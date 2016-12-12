@@ -4,3 +4,5 @@ group: "HTML Tools & Site"
 address: "https://validator.w3.org/"
 icon: "w3org.svg"
 ---
+
+Validate your site from this site.
