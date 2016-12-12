@@ -5,4 +5,4 @@ address: "http://cssmediaqueries.com/"
 icon: "cssmediaqueries.svg"
 ---
 
-Learn about css3 media querie.
+This is the learning place for css media queries.

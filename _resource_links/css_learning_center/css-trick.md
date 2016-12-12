@@ -1,8 +1,8 @@
 ---
-title: "Css-tricks"
+title: "Css-tricks almanac"
 group: "CSS Learning Center"
-address: "https://css-tricks.com"
+address: "https://css-tricks.com/almanac/"
 icon: "csstricks.svg"
 ---
 
-This is the most fun place to learn css.
+This is css-tricks blog css referance page.
