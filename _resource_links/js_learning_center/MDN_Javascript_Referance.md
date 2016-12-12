@@ -5,4 +5,4 @@ address: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 icon: "mozilla.svg"
 ---
 
-This is the good place for starting css.
+This is the Mozilla developer network javascript referance page.

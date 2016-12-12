@@ -5,4 +5,4 @@ address: "http://api.jquery.com/"
 icon: "jquery.svg"
 ---
 
-This site give the basic jquery method and property with example.
+This site give the basic jquery method and property with example (Jquery Documentation).
