@@ -5,4 +5,4 @@ address: "http://jekyllrb.com/"
 icon: "jekyllrb.svg"
 ---
 
-This is the offecial site for learning jekyll.
+This is the offecial site for learning jekyll (static site generator).
