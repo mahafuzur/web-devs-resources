@@ -1,6 +1,8 @@
 ---
 title: "Typography Guide"
-group: "Fonts Tools & Site"
+group: "CSS Learning Center"
 address: "http://www.typogui.de/"
 icon: "typogui.svg"
 ---
+
+Typography guide for designer.

@@ -5,3 +5,4 @@ address: "http://placehold.it/"
 icon: "placehold.svg"
 ---
 
+Get required placeholder image for your sites.

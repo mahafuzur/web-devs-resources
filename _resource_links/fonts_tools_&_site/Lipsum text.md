@@ -5,3 +5,4 @@ address: "http://www.lipsum.com/"
 icon: "lipsum.svg"
 ---
 
+This site generates demo text paragraph.
