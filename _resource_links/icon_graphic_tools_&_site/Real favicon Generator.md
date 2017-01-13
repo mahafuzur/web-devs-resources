@@ -4,3 +4,4 @@ group: "Icon,Graphics Tools & Site"
 address: "http://realfavicongenerator.net/"
 icon: "realfavicongenerator.svg"
 ---
+Fabicon generator in diffrent format.

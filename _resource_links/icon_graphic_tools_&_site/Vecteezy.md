@@ -5,3 +5,4 @@ address: "http://www.vecteezy.com/"
 icon: "vecteezy.svg"
 ---
 
+Discover & Download Free Vector Art!
