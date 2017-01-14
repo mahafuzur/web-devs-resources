@@ -5,4 +5,4 @@ address: "https://angularjs.org/"
 icon: "angularjs.svg"
 ---
 
-Angular js is one of the old javascript framework. which help to create better data stractur.
+Angular js is one of the old javascript framework. It enhanced HTML to create better web apps.

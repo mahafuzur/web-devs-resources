@@ -4,4 +4,4 @@ group: "Javascript Tools & Site"
 address: "http://lab.hakim.se/ladda/"
 icon: "hakim.svg"
 ---
-
+Different type button animation.
