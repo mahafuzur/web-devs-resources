@@ -3,11 +3,11 @@
        {% for link in site.resource_links %}
     	{% if link.group == include.group %}
          <div class="link">
-            <h3 style="background-image: url(/images/svg-icons/{{link.icon}})">{{link.title}}<sup>free</sup></h3>
+            <h3 style="background-image: url({{site.url}}/images/svg-icons/{{link.icon}})">{{link.title}}<sup>free</sup></h3>
             <a href="{{link.address}}" target="_blank">{{link.address}}</a>
             {{link.content}}
          </div>
         {% endif %}
-  		{% endfor %}                                                 
+  		{% endfor %}
      </div>
 </div>
