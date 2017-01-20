@@ -16,7 +16,7 @@
 title: Web devs resources
 email: mahafuzurrahaman1986@gmail.com
 description: This site provide some good web development resources links.
-baseurl: "https://mahafuzur.github.io/web-devs-resources/" 
+baseurl: "https://mahafuzur.github.io/web-devs-resources" 
 url: "https://mahafuzur.github.io"
 
 # Build settings
